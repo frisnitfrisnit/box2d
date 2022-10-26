@@ -5,3 +5,8 @@ settings.ini
 CMakeSettings.json
 out/
 .vs/
+.DS_Store
+bin-int/*
+*.a
+*.pbxproj
+Box2D.xcodeproj/xcuserdata/stuarthunt.xcuserdatad/xcschemes/xcschememanagement.plist
